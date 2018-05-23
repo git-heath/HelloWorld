@@ -1,6 +1,4 @@
-using System;
-
-namespace WebApplication1.Models
+namespace HelloWorld.WebApp.Models
 {
     public class ErrorViewModel
     {
